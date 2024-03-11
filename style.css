@@ -6,7 +6,7 @@
 }
 
 body{
-
+ 
 }
 
 
@@ -45,7 +45,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #EFF4F7;
+    background-color:#EFFEFE;;
     height: 1cm;
     font-size: 13px;
 }
@@ -88,7 +88,7 @@ nav{
 }
 
 .searchbar{
-background-color: #EFF4F7;
+background-color:#EFFEFE;;
 /* background-color: red; */
 padding: 8px;
 border-radius: 25px;
@@ -102,7 +102,7 @@ border-radius: 25px;
     width: 265px;
     height: .6cm;
     border: none;
-    background-color: #EFF4F7;
+    background-color: #EFFEFE;;
     /* background-color: red; */
     font-size: 17px;
     padding-top: 3px;
@@ -132,7 +132,7 @@ border-radius: 25px;
     align-items: center;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background-color: #EFF4F7;
+    background-color: #EFFEFE;
     padding-left: 1cm;
     padding-right: 1cm;
 }
@@ -397,7 +397,7 @@ border-radius: 25px;
     align-items: center;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background-color: #EFF4F7;
+    background-color: #EFFEFE;
     padding-left: 1cm;
     padding-right: 1cm;
     /* display: none; */
